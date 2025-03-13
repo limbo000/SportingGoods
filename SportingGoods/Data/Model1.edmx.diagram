@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="2cfdf064d18143bfaf10f9732401a757" Name="Diagram1">
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Articles" Width="1.5" PointX="0.75" PointY="2.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Category" Width="1.5" PointX="0.75" PointY="5.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.City" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Fitness" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Index" Width="1.5" PointX="5.75" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Manufacturer" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Name" Width="1.5" PointX="0.75" PointY="10.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.PickPoint" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Role" Width="1.5" PointX="7.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Street" Width="1.5" PointX="5.75" PointY="6.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.Supplier" Width="1.5" PointX="0.75" PointY="12.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="SportingGoodsDBModel.User" Width="1.5" PointX="10" PointY="5" IsExpanded="true" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_Fitness_Articles" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_Fitness_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_PickPoint_City" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_Fitness_Manufacturer" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_Fitness_Name" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_Fitness_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_PickPoint_Index" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_PickPoint_Street" ManuallyRouted="false" />
+        <AssociationConnector Association="SportingGoodsDBModel.FK_User_Role" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

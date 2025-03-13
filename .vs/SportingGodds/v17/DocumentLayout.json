@@ -3,24 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\pages\\viewfitnesspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\pages\\viewfitnesspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\pages\\viewfitnesspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\pages\\viewfitnesspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|c:\\users\\\u0448\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\desktop\\sportinggodds\\sportinggodds\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|solutionrelative:sportinggodds\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26E58D63-1FB8-479D-A7DA-16B9975E5DBB}|SportingGodds\\SportingGodds.csproj|C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\sportinggodds\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,41 +63,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Model1.Context.cs",
-              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.Context.cs",
-              "RelativeDocumentMoniker": "SportingGodds\\Data\\Model1.Context.cs",
-              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.Context.cs",
-              "RelativeToolTip": "SportingGodds\\Data\\Model1.Context.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Title": "Pages\\ViewFitnessPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\ViewFitnessPage.xaml.cs",
+              "RelativeDocumentMoniker": "SportingGodds\\Pages\\ViewFitnessPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\ViewFitnessPage.xaml.cs",
+              "RelativeToolTip": "SportingGodds\\Pages\\ViewFitnessPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:32:47.323Z",
+              "WhenOpened": "2025-03-13T13:10:12.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.edmx",
-              "RelativeDocumentMoniker": "SportingGodds\\Data\\Model1.edmx",
-              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "SportingGodds\\Data\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-03-13T11:31:58.799Z"
+              "Title": "ViewFitnessPage.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\ViewFitnessPage.xaml",
+              "RelativeDocumentMoniker": "SportingGodds\\Pages\\ViewFitnessPage.xaml",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\ViewFitnessPage.xaml",
+              "RelativeToolTip": "SportingGodds\\Pages\\ViewFitnessPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T13:05:48.671Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\LoginPage.xaml",
               "RelativeDocumentMoniker": "SportingGodds\\Pages\\LoginPage.xaml",
               "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\LoginPage.xaml",
               "RelativeToolTip": "SportingGodds\\Pages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T11:29:22.189Z"
+              "WhenOpened": "2025-03-13T11:29:22.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "SportingGodds\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "SportingGodds\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-03-13T12:48:45.204Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pages\\LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "SportingGodds\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "SportingGodds\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAAGEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:04:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "SportingGodds\\Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "SportingGodds\\Data\\Model1.Context.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:51:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "SportingGodds\\Data\\Role.cs",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Data\\Role.cs",
+              "RelativeToolTip": "SportingGodds\\Data\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:51:55.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\App.xaml",
+              "RelativeDocumentMoniker": "SportingGodds\\App.xaml",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\App.xaml",
+              "RelativeToolTip": "SportingGodds\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T13:03:17.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SportingGodds\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\MainWindow.xaml",
+              "RelativeToolTip": "SportingGodds\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-13T11:22:52.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\App.config",
+              "RelativeDocumentMoniker": "SportingGodds\\App.config",
+              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\App.config",
+              "RelativeToolTip": "SportingGodds\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-13T12:47:01.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\Classes\\Manager.cs",
               "RelativeDocumentMoniker": "SportingGodds\\Classes\\Manager.cs",
@@ -81,22 +195,12 @@
               "RelativeToolTip": "SportingGodds\\Classes\\Manager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:28:33.138Z"
+              "WhenOpened": "2025-03-13T11:28:33.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "SportingGodds\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\MainWindow.xaml",
-              "RelativeToolTip": "SportingGodds\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-13T11:22:52.202Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0428\u0438\u0445\u0440\u0430\u0433\u0438\u043C\\Desktop\\SportingGodds\\SportingGodds\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "SportingGodds\\MainWindow.xaml.cs",
@@ -104,7 +208,8 @@
               "RelativeToolTip": "SportingGodds\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T11:22:50.356Z"
+              "WhenOpened": "2025-03-13T11:22:50.356Z",
+              "EditorCaption": ""
             }
           ]
         }
